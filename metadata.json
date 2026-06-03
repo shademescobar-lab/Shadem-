@@ -1,0 +1,8 @@
+{
+  "name": "FolklorDance Bolivia",
+  "description": "Aplicación interactiva para bailarines de ballet de danza boliviana. Con tutoriales paso a paso de Caporales, Tinku, Morenada, taller de diseño de trajes folclóricos, retos y trivia cultural.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
